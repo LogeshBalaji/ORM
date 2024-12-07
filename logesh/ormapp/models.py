@@ -10,5 +10,4 @@ class Bankloan (models.Model):
 class BankloanAdmin(admin.ModelAdmin):
   list_display=('acc','name','mobileno','pancode','aadharcode')
 
-
-
+# Create your models here.
